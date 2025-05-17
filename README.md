@@ -33,12 +33,12 @@
 ├── js/
 │   └── script.js
 └── img/
-    └── profile.jpg
+    └── avatar.jpg
 ```
 
 ## Cài đặt ảnh hồ sơ
 
-Để thay đổi ảnh hồ sơ, thay thế file `img/profile.jpg` bằng ảnh của bạn. Hãy đảm bảo rằng ảnh có kích thước vuông để hiển thị tốt nhất.
+Để thay đổi ảnh hồ sơ, thay thế file `img/avatar.jpg` bằng ảnh của bạn. Hãy đảm bảo rằng ảnh có kích thước vuông để hiển thị tốt nhất.
 
 ## Tùy chỉnh
 
